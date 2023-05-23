@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nexus V1", "Nexus V1\Nexus V1.csproj", "{DA8AD665-CFB2-4635-B2BF-4D8105894C6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA8AD665-CFB2-4635-B2BF-4D8105894C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8AD665-CFB2-4635-B2BF-4D8105894C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8AD665-CFB2-4635-B2BF-4D8105894C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA8AD665-CFB2-4635-B2BF-4D8105894C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05F1E866-747D-4BF3-93AB-660C63F39E80}
+	EndGlobalSection
+EndGlobal

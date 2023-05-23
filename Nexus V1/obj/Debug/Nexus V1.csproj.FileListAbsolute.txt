@@ -1,0 +1,15 @@
+C:\Users\Damian\Desktop\Nexus V1\Nexus V1\bin\Debug\Nexus V1.exe.config
+C:\Users\Damian\Desktop\Nexus V1\Nexus V1\bin\Debug\Nexus V1.exe
+C:\Users\Damian\Desktop\Nexus V1\Nexus V1\bin\Debug\Nexus V1.pdb
+C:\Users\Damian\Desktop\Nexus V1\Nexus V1\bin\Debug\FastColoredTextBox.dll
+C:\Users\Damian\Desktop\Nexus V1\Nexus V1\bin\Debug\WeAreDevs_API.dll
+C:\Users\Damian\Desktop\Nexus V1\Nexus V1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Damian\Desktop\Nexus V1\Nexus V1\obj\Debug\Nexus V1.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\Nexus V1\Nexus V1\obj\Debug\Nexus V1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Damian\Desktop\Nexus V1\Nexus V1\obj\Debug\Nexus_V1.Form1.resources
+C:\Users\Damian\Desktop\Nexus V1\Nexus V1\obj\Debug\Nexus_V1.Properties.Resources.resources
+C:\Users\Damian\Desktop\Nexus V1\Nexus V1\obj\Debug\Nexus V1.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\Nexus V1\Nexus V1\obj\Debug\Nexus V1.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\Nexus V1\Nexus V1\obj\Debug\Nexus V1.csproj.CopyComplete
+C:\Users\Damian\Desktop\Nexus V1\Nexus V1\obj\Debug\Nexus V1.exe
+C:\Users\Damian\Desktop\Nexus V1\Nexus V1\obj\Debug\Nexus V1.pdb
